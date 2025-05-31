@@ -47,6 +47,3 @@ We design two pages one is the home page with a search bar at the top then a lis
 
 ### Travel App Final UI
 
-<!-- ![Preview](/gif.gif) -->
-
-![App UI](/ui.png)
